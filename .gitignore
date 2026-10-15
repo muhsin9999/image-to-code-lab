@@ -1,0 +1,17 @@
+node_modules/
+**/node_modules/
+archive/
+benchmarks/
+runs/
+.cache/
+.npm-cache/
+.t4/
+work/
+site/
+**/dist/
+**/.vite/
+**/*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.log

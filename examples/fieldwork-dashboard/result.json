@@ -1,0 +1,13 @@
+{
+  "reference": {
+    "width": 1440,
+    "height": 1380
+  },
+  "run": 6,
+  "differingPixels": 80625,
+  "differingFraction": 0.0406,
+  "firstRenderMinutes": 8.936383333333334,
+  "totalMinutes": 34.9,
+  "checksCompleted": 6,
+  "maskNote": "Pixel difference is a visual diagnostic, not a design-quality score."
+}
